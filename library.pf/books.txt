@@ -1,0 +1,4 @@
+Book{name='离散数学', author='顾晓峰', price=56, type='教材',未借出}
+Book{name='老人与海', author='海明威', price=56, type='小说',未借出}
+Book{name='史记', author='司马迁', price=45, type='史书',未借出}
+
